@@ -1,5 +1,8 @@
 _repo: Le-crime-du-vieux-Blas_75003
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75003-h/images/cover.jpg
 creator:
   author:
     agent_name: Mendès, Catulle
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Catulle_Mend%C3%A8s
     - https://fr.wikipedia.org/wiki/Catulle_Mend%C3%A8s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75003#Le-crime-du-vieux-Blas
 gutenberg_issued: '2024-12-31'
 gutenberg_type: Text
 identifiers:
